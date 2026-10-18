@@ -1,3 +1,5 @@
+--SQL для БД ClickHouse
+
 CREATE DATABASE IF NOT EXISTS raw_vault;
 
 
