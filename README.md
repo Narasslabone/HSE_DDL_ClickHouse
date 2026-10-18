@@ -1,1 +1,1 @@
-# HSE_DDL_ClickHouse
+# ClickHouse and Greenplum
