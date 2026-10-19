@@ -1,1 +1,1 @@
-# ClickHouse and Greenplum
+# ClickHouse
